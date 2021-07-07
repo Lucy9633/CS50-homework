@@ -1,2 +1,2 @@
 # CS50-homework
-The following repositories consist of CS50 homeworks
+This file will consit of various CS50 homeworks.
